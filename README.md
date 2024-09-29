@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seansie0830
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning some skills in various aspects
 - 💞️ I’m looking to collaborate on ..........
 
 
